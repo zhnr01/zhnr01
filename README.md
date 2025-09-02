@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently learning **>Advanced Web3, Smart Contracts & DeFi**  
+- 🌱 I’m currently learning **Advanced Web3, Smart Contracts & DeFi**  
 - 💬 Ask me about **Python, Vyper, Solidity, or Web Scraping**  
 - 📫 Reach me at: **zeeshanrabnawaz.dev@gmail.com**  
 - ⚡ Fun fact: **I somehow manage to learn ten different things at once.**
